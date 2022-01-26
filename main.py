@@ -1,7 +1,6 @@
 import math
 import os
 
-
 def readtext(a, b) -> int:
     return math.floor(a + b)
 
