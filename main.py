@@ -2,7 +2,7 @@ import math
 import os
 
 
-def func1(a, b) -> int:
+def readtext(a, b) -> int:
     return math.floor(a + b)
 
 
